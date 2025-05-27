@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Jovmitt
 - 🌱 I’m currently learning NixOS, LFS, rust and java.
 - 💞️ I’m looking to collaborate on free open-source stuff.
-- ⚡ Fun fact: FACT. bears eat beets. bear. beets. battlestar galactica.
+- ⚡ Fun fact: FACT. bears eat beets. bears. beets. battlestar galactica.

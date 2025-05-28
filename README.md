@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @janSitto
-- 🌱 I’m currently learning NixOS, LFS, rust and java.
+- 🌱 I’m currently learning NixOS, LFS, Rust and Java.
 - 💞️ I’m looking to collaborate on free open-source stuff.
 - ⚡ Fun fact: FACT. bears eat beets. bears. beets. battlestar galactica.

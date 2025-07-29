@@ -5,5 +5,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janSitto&show_icons=true&theme=radical)
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janSitto&layout=compact)
-![trophy](https://github-profile-trophy.vercel.app/?username=janSitto)
